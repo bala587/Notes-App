@@ -27,7 +27,7 @@
 git clone https://github.com/bala587/Notes-App.git
 ```
 
-### Install packages (both folder frontend and backend)
+### Install packages (both folder, frontend and backend)
 
 ```shell
 npm install
