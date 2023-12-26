@@ -19,7 +19,43 @@
 - Cross-Platform Syncing
 - Secure Storage Practices
 - User Authentication
-- Real-Time Collaboration 
+- Real-Time Collaboration
+
+### Cloning the repository
+
+```shell
+git clone https://github.com/bala587/Notes-App.git
+```
+
+### Install packages (both folder frontend and backend)
+
+```shell
+npm install
+```
+
+### Setup .env file in NoetsApp-backend folder 
+
+```js
+MONGO_URL=
+PORT=4000
+```
+
+### Fisrt run your backend server
+
+```shell
+PS C:\Users\ELCOT\Desktop\Notes-app\NotesApp-backend> npm start
+```
+It will run in localhost:4000
+
+### Then start your frontend 
+
+```shell
+PS C:\Users\ELCOT\Desktop\Notes-app\NotesApp-frontend> npm start
+```
+ 
+
+
+
 
 
       
