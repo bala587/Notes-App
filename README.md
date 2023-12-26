@@ -8,18 +8,19 @@
 
 ### Key Features:
 
--User-Friendly Interface
--Real-Time Editing
--Organize Your Thoughts
--Rich Text Formatting
--Responsive Design
--Light and Dark Mode
--Emoji Support
--User Support
--Cross-Platform Syncing
--Secure Storage Practices
--User Authentication
--Real-Time Collaboration 
+- Organize Your Thoughts
+- Real-Time Editing
+- User-Friendly Interface
+- Rich Text Formatting
+- Responsive Design
+- Light and Dark Mode
+- Emoji Support
+- User Support
+- Cross-Platform Syncing
+- Secure Storage Practices
+- User Authentication
+- Real-Time Collaboration 
+
 
       
 
